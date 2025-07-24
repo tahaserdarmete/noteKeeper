@@ -20,7 +20,7 @@ Note Keeper is a simple and user-friendly note-taking application. Developed usi
 
 
 ## 🌍 Live Demo
-notekeeper01.netlify.app
+[notekeeper01.netlify.app](https://notekeeper01.netlify.app/)
 
 ## 🎥 ScreenShot
 
