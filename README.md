@@ -6,9 +6,9 @@ Note Keeper is a simple and user-friendly note-taking application. Developed usi
 
 ## 🚀 Features
 
-- ✅ Adding notes
-- ✏️ Editing notes
-- 🗑️ Deleting notes
+- ✅ Add notes
+- ✏️ Edi otes
+- 🗑️ Delete notes
 - 📅 Adding date information to notes
 - 📱 Responsive (mobile-friendly) interface
 
