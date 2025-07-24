@@ -18,6 +18,10 @@ Note Keeper is a simple and user-friendly note-taking application. Developed usi
 - CSS3 – With modern styles and a gradient background
 - JavaScript
 
+
+## 🌍 Live Demo
+notekeeper01.netlify.app
+
 ## 🎥 ScreenShot
 
 <img src="noteKeeper.gif"/>
