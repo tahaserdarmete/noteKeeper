@@ -20,4 +20,4 @@ Note Keeper is a simple and user-friendly note-taking application. Developed usi
 
 ## 🎥 ScreenShot
 
-<img src="noteKeeper".gif/>
+<img src="noteKeeper.gif"/>
